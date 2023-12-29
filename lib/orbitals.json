@@ -1,0 +1,301 @@
+{
+    "kerbol": {
+        "class": "star",
+        "children": {
+            "moho": {
+                "class": "planet",
+                "children": null,
+                "orbit": {
+                    "escape velocity": null,
+                    "low orbit": null,
+                    "sphere of influence": null,
+                    "synchronous": null
+                },
+                "atmosphere": null,
+                "surface": {
+                    "deepest ocean": null,
+                    "has oceans": false,
+                    "highest peak": null,
+                    "lowest ground": null
+                },
+               "biome": []
+            },
+            "eve": {
+                "class": "planet",
+                "orbit": {
+                    "escape velocity": null,
+                    "low orbit": null,
+                    "sphere of influence": null,
+                    "synchronous": null
+                },
+                "atmosphere": null,
+                "surface": {
+                    "deepest ocean": null,
+                    "has oceans": false,
+                    "highest peak": null,
+                    "lowest ground": null
+                },
+                "children": {
+                    "gilly": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    }
+                },
+                "biome": []
+            },
+            "kerbin": {
+                "class": "planet",
+                "orbit": {
+                    "sphere of influence": null,
+                    "escape velocity": null,
+                    "synchronous": 2863334,
+                    "low orbit": 1000000
+                },
+                "atmosphere": {
+                    "limit": 70000
+                },
+                "surface": {
+                    "lowest ground": null,
+                    "highest peak": null,
+                    "deepest ocean": null,
+                    "has oceans": true
+                },
+                "children": {
+                    "mun": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    },
+                    "minmus": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    }
+                },
+                "biome": [
+                    "desert",
+                    "grasslands",
+                    "beach",
+                    "water",
+                    "mountains",
+                    "highlands",
+                    "ice"
+                ]
+            },
+            "duna": {
+                "class": "planet",
+                "orbit": {
+                    "escape velocity": null,
+                    "low orbit": null,
+                    "sphere of influence": null,
+                    "synchronous": null
+                },
+                "atmosphere": null,
+                "surface": {
+                    "deepest ocean": null,
+                    "has oceans": false,
+                    "highest peak": null,
+                    "lowest ground": null
+                },
+                "children": {
+                    "ike": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    }
+                },
+                "biome": []
+            },
+            "dres": {
+                "class": "planet",
+                "orbit": {
+                    "escape velocity": null,
+                    "low orbit": null,
+                    "sphere of influence": null,
+                    "synchronous": null
+                },
+                "atmosphere": null,
+                "surface": {
+                    "deepest ocean": null,
+                    "has oceans": false,
+                    "highest peak": null,
+                    "lowest ground": null
+                },
+                "children": null,
+                "biome": []
+            },
+            "jool": {
+                "class": "planet",
+                "orbit": {
+                    "escape velocity": null,
+                    "low orbit": null,
+                    "sphere of influence": null,
+                    "synchronous": null
+                },
+                "atmosphere": null,
+                "surface": {
+                    "deepest ocean": null,
+                    "has oceans": false,
+                    "highest peak": null,
+                    "lowest ground": null
+                },
+                "children": {
+                    "laythe": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    },
+                    "vall": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    },
+                    "tylo": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    },
+                    "bop": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    },
+                    "pol": {
+                        "class": "moon",
+                        "orbit": {
+                            "escape velocity": null,
+                            "low orbit": null,
+                            "sphere of influence": null,
+                            "synchronous": null
+                        },
+                        "atmosphere": null,
+                        "surface": {
+                            "deepest ocean": null,
+                            "has oceans": false,
+                            "highest peak": null,
+                            "lowest ground": null
+                        },
+                        "biome": []
+                    }
+                },
+                "biome": []
+            },
+            "eeloo": {
+                "class": "planet",
+                "orbit": {
+                    "escape velocity": null,
+                    "low orbit": null,
+                    "sphere of influence": null,
+                    "synchronous": null
+                },
+                "atmosphere": null,
+                "surface": {
+                    "deepest ocean": null,
+                    "has oceans": false,
+                    "highest peak": null,
+                    "lowest ground": null
+                },
+                "children": null,
+                "biome": []
+            }        
+        },
+        "biome": []
+    }
+}

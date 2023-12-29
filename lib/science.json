@@ -1,0 +1,16 @@
+{
+    "crew observation": {
+        "transmitable": true,
+        "data": 22
+    },
+    "environment data": {
+        "transmitable": true,
+        "data": 44
+    },
+    "environment sample": {
+        "transmitable": false
+    },
+    "ground sample": {
+        "transmitable": false
+    }
+}
