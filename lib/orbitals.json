@@ -79,7 +79,7 @@
                         "orbit": {
                             "escape velocity": null,
                             "low orbit": null,
-                            "sphere of influence": null,
+                            "sphere of influence": 2226000,
                             "synchronous": null
                         },
                         "atmosphere": null,
@@ -89,7 +89,11 @@
                             "highest peak": null,
                             "lowest ground": null
                         },
-                        "biome": []
+                        "biome": [
+                            "mare",
+                            "highlands",
+                            "craters"
+                        ]
                     },
                     "minmus": {
                         "class": "moon",
@@ -116,7 +120,8 @@
                     "water",
                     "mountains",
                     "highlands",
-                    "ice"
+                    "ice",
+                    "kerbal space center"
                 ]
             },
             "duna": {

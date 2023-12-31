@@ -1,4 +1,11 @@
 {
+    "athmospheric data": {
+        "transmitable": true
+    },
+    "athmospheric samples": {
+        "transmitable": false,
+        "data": 225
+    },
     "crew observation": {
         "transmitable": true,
         "data": 22
@@ -10,7 +17,11 @@
     "environment sample": {
         "transmitable": false
     },
-    "ground sample": {
+    "surface sample": {
         "transmitable": false
+    },
+    "surface sample data": {
+        "transmitable": true,
+        "data": 63
     }
 }
