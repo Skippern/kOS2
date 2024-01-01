@@ -91,8 +91,10 @@
                         },
                         "biome": [
                             "mare",
+                            "mare eye",
                             "highlands",
-                            "craters"
+                            "craters",
+                            "rayed crater"
                         ]
                     },
                     "minmus": {
@@ -110,7 +112,11 @@
                             "highest peak": null,
                             "lowest ground": null
                         },
-                        "biome": []
+                        "biome": [
+                            "snowdrift",
+                            "sheet ice",
+                            "craters"
+                        ]
                     }
                 },
                 "biome": [
@@ -158,7 +164,11 @@
                         "biome": []
                     }
                 },
-                "biome": []
+                "biome": [
+                    "lowland",
+                    "midland",
+                    "highland"
+                ]
             },
             "dres": {
                 "class": "planet",
