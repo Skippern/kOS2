@@ -1,0 +1,49 @@
+{
+    "kerbin": {
+        "discoverable": {
+            "kerb-2": {
+                "description": "massive mountain based on K2"
+            },
+            "stargazer point": {
+                "description": "large rock formation, massive gray rectangular rock juts out of a forest"
+            },
+            "kapy rock": {
+                "description": "rock formation mimics Capybaras"
+            },
+            "lost center": {
+                "description": "massive temple modeled after ancient mayan"
+            }
+        },
+        "mun": {
+            "discoverable": {
+                "mun arch 1": {
+                    "description": "Easter egg from KSP 1"
+                },
+                "mun arch 2": {
+                    "description": "Easter egg from KSP 1"
+                },
+                "gloving mun arch": {
+                    "description": "Massive golden archway which depicts the Kerbol System. Likely the first discoverable you discover"
+                },
+                "mun-or-bust": {
+                    "description": "replica of main menu screen from KSP1",
+                    "position": {
+                        "x": -13.4,
+                        "y": -69.94
+                    }
+                },
+                "mun mound": {
+                    "description": "a large pile of rocks"
+                }
+            }
+        },
+        "minmus": {
+            "discoverable": {
+                "monument": {
+                    "description": "statue of humanoid kraken"
+                },
+                "balancing rock": "two rocks, one balancing other"
+            }
+        }
+    }
+}
