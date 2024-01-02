@@ -62,6 +62,7 @@
                     "sphere of influence": null,
                     "escape velocity": null,
                     "synchronous": 2863334,
+                    "synchronous speed": 1010,
                     "low orbit": 1000000
                 },
                 "atmosphere": {
